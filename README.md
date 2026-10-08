@@ -2,6 +2,7 @@
 
 **雫 — A Galgame engine as simple as making a slideshow.**
 
+[![shisuku](6F84DD62-195C-4FB7-B3EA-C06BD30394B6.png)]
 [![Status](https://img.shields.io/badge/status-planning-blue)]()
 [![Release](https://img.shields.io/badge/release-2027-green)]()
 [![License](https://img.shields.io/badge/license-MIT-lightgrey)]()
