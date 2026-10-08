@@ -67,3 +67,4 @@ If you'd like to:
 • Join later → follow first, design docs coming soon 
  
 License
+MIT
